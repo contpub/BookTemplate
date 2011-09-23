@@ -25,3 +25,14 @@ Book Template for ContPub (Continuous Publishing).
 -------------------
 
 歡迎您加入開放電子書創作行列。
+
+Continuous Publishing 是一項電子書出版改革，
+ContPub 的理念就是讓每個人都能輕易利用電腦「書寫」，
+並且在「毫不費力」的流程下將電子書出版發行。
+如果您有興趣瞭解多一些，請參考以下資料：
+
+* 敏捷技術寫作（Agile Technical Writing）
+  https://github.com/lyhcode/AgileTechnicalWriting
+
+* Lean Publishing
+  http://leanpub.com/
