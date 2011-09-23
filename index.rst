@@ -1,7 +1,10 @@
 .. BookTemplate
-   https://github.com/contpub/BookTemplate
    @project: BookTemplate
    @copyright: Creative Commons
+   @author: lyhcode <lyhcode@gmail.com>
+   @location: https://github.com/contpub/BookTemplate
+   @category: sample
+   @keywords: demo, essay
    @version: 1.0
    @release: 1.0
    @epub_basename: BookTemplate
